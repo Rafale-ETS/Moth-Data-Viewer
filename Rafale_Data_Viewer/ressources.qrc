@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/web">
+        <file alias="webMap">map.html</file>
+    </qresource>
+    <qresource prefix="/models">
+        <file alias="HullSmall">MothHullSimplifiedSmall.obj</file>
+        <file>MothHullSimplifiedUnit.mtl</file>
+        <file alias="HullUnit">MothHullSimplifiedUnit.obj</file>
+        <file>MothHullSimplifiedSmall.mtl</file>
+    </qresource>
+</RCC>
